@@ -24,7 +24,7 @@
 			<?php printf( __('Proudly powered by %s.', 'starkers'), 'WordPress' ); ?>
 		</a>
 
-		<a href="#">test3</a>
+		<a href="#">test4</a>
 
 	</footer>
 
